@@ -1,5 +1,5 @@
 # ZENIS_PETSHOP
-Sistem Informasi Penjualan pada Zenis PetShop
+Sistem Informasi Penjualan pada Zenis PetShop adalah sebuah sistem informasi penjualan di zenis petshop dibuat oleh Raihan Widiyansyah Nur. Tampilannya dirancang dengan menggunakan desain template Gentelella.
 
 ## How to Install
 Jika di local :
