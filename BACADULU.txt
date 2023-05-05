@@ -1,0 +1,22 @@
+SISTEM INFORMASI MANAJEMEN STOK PRODUK ZENIS PETSHOP
+oleh : RAIHAN WIDIYANSYAH NUR
+
+= BUAT FOLDER pada HTDOCS dengan nama STOK 
+	Simpan semua file project di folder STOK
+
+= IMPORT DATABASE ======
+	buat database dengan nama : stok
+	buka database stok
+	import file sql yang terdapat pada folder database
+		import file stok.sql yang ada pada folder database
+
+= Akses Login
+	buka http://localhost/STOK
+	anda akan diarahkan ke halaman login sistem
+	masukkan
+		username : 18.14.1.0060
+		password : 18.14.1.0060
+	
+By @radh_nacl
+Andi Alfian
+2023-03-04
