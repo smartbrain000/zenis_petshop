@@ -7,5 +7,5 @@ Jika di local :
 - import file stok.sql yang ada pada folder database
 
 ### Akses Login
-Username : 18.14.1.0060
-Password : 18.14.1.0060 <br>
+- Username : 18.14.1.0060
+- Password : 18.14.1.0060
